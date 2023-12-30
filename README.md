@@ -1,5 +1,5 @@
 👋Olá!! Me chamo Matheus José Viliczinski<br>
-🤓Souformado no IFC-Araquari no curso tecnico de informática para internet
+🤓Sou formado no IFC-Araquari no curso tecnico de informática para internet
 
 ##
 <div style="display: inline_block"><br>
