@@ -1,5 +1,5 @@
 👋Olá!! Me chamo Matheus José Viliczinski<br>
-🤓Sou formado no IFC-Araquari no curso tecnico de informática para internet
+🤓Sou formado no IFC-Araquari
 
 ##
 <div style="display: inline_block"><br>
@@ -23,5 +23,4 @@
  <div> 
   <a href = "mailto:viliczinskimatheusjose@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/matheusvili_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/godnaninha" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
  </div>
